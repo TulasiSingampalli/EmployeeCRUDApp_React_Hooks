@@ -44,7 +44,7 @@ This is a simple Employee Management App built with React. It allows you to perf
 
 ## Try it on CodeSandbox
 
-This project is also available on CodeSandbox, allowing you to explore and interact with the application directly in your browser without having to set up a local development environment. Follow the steps below to access the project on CodeSandbox:
+The Employee Management App was built as a learning project. This project is also available on CodeSandbox, allowing you to explore and interact with the application directly in your browser without having to set up a local development environment. Follow the steps below to access the project on CodeSandbox:
 
 1. Visit the [Employee CRUD App on CodeSandbox](https://codesandbox.io/s/employeecrudapp-react-hooks-c0rg6d) 
 
@@ -56,5 +56,6 @@ This project is also available on CodeSandbox, allowing you to explore and inter
 
 Please note that any changes made on CodeSandbox will not affect the original project. If you wish to save your modifications, you can create a fork of the project on CodeSandbox or download the source code and run it locally.
 
-
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request in the repository.
 
