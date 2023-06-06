@@ -2,6 +2,8 @@
 
 This is a simple Employee Management App built with React. It allows you to perform CRUD (Create, Read, Update, Delete) operations on a list of employees.
 
+![CRUD](https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/3a52907d-910c-4b21-b668-f367faf4ff72)
+
 ## Features
 
 - Add new employees by providing their name and age.
@@ -11,31 +13,21 @@ This is a simple Employee Management App built with React. It allows you to perf
 - Displays an error message for empty fields when adding or updating an employee.
 - Responsive design for seamless usage across different devices.
 
-## Screenshots
 ### Add Employee
-- Let's try to add Employee 'John' of age 35
 - The "Add Employee" section allows you to enter the name and age of a new employee. 
 - If any of the fields are left empty, an error message is displayed.
-<img width="960" alt="Error" src="https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/9d21b78a-c066-44e2-8386-3aca623b9d8c">
-
-<img width="960" alt="Add" src="https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/dc520f7f-3787-49a5-81eb-ec9fc670763d">
 
 ### Edit Employee
 - Clicking the "Edit" button for an employee allows you to modify their name and age.
-- Let's try to edit Employee 'John' of age 35 with age 45
 - The updated details are reflected in the employee list.
-<img width="960" alt="Update" src="https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/c707f094-20ed-4bbe-9b7f-aef54a209ec1">
 
 ### Employee List
 - The "Employee List" displays the list of employees. Each employee is shown with their name, age, and two action buttons for editing and deleting.
 - You can search for employees by name using the search bar.
-<img width="960" alt="Search" src="https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/79651d8d-d419-4a00-9b78-f98412c0a5e4">
 
 
 ### Delete Employee
 - Clicking the "Delete" button for an employee removes them from the list.
-- Let's try to delete Employee 'John' of age 45 
-<img width="960" alt="Delete" src="https://github.com/TulasiSingampalli/EmployeeCRUDApp_React_Hooks/assets/128671828/897086f5-8a5a-4fc4-88c7-70c72aadf166">
 
 ### Responsive Design
 - The Employee CRUD App is built with a responsive design to ensure a seamless user experience across different devices.
